@@ -11,7 +11,7 @@ Before beginning, install and run Xcode to ensure necessary dev components are i
 ```bash
 git clone https://github.com/creationix/nvm.git .nvm
 ```
-### Terminal and Git
+### Terminal and Git Configuration with Developer App Installation
 1. Open the Terminal Application and clone the dotfiles repo:
 ```bash
 git clone https://github.com/timklein/dotfiles.git .dotfiles
