@@ -1,0 +1,21 @@
+# Folder View Files
+.DS_Store
+Desktop.ini
+
+# Thumbnails
+._*
+Thumbs.db
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Miscellaneous
+node_modules
+*.sublime-workspace
+*.log

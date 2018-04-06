@@ -1,0 +1,5 @@
+# NPM packages to install for every version of Node in NVM
+
+nodemon
+sass
+gulp-cli
